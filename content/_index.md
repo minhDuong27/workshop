@@ -25,7 +25,7 @@ chapter : false
 
 &emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
 
-![Your profile picture](/images/avatar.png)
+![My Avatar](/images/Gemini_Generated_Image_ko3nmgko3nmgko3n.jpg)
 ### Content
  1. [Introduction ](1-introduce/)
  2. [Preparation](2-prerequiste/)
@@ -33,4 +33,5 @@ chapter : false
  4. [Manage session logs](4-s3log/)
  5. [Port Forwarding](5-Portfwd/)
  6. [Clean up resources](6-cleanup/)
+
 
