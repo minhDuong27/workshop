@@ -25,7 +25,7 @@ chapter : false
 
 &emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
 
-![My avatar](static/images/5e44f68c-7cf9-453c-8a07-40d56b6c13c6.jpg)
+![My avatar](static/images/arc-01.png)
 
 ### Content
  1. [Introduction ](1-introduce/)
@@ -34,6 +34,7 @@ chapter : false
  4. [Manage session logs](4-s3log/)
  5. [Port Forwarding](5-Portfwd/)
  6. [Clean up resources](6-cleanup/)
+
 
 
 
