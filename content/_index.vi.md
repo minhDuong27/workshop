@@ -1,22 +1,51 @@
+
 ---
 title : "Session Management"
-date :  "`r Sys.Date()`" 
+date :  "23/9/2025" 
 weight : 1 
 chapter : false
 ---
-# Làm việc với Amazon System Manager - Session Manager
+# BÁO CÁO THỰC TẬP
 
-### Tổng quan
+### Thông tin của sinh viên:
+&emsp; **Họ và tên:** Lê Minh Dương
 
- Trong bài lab này, bạn sẽ tìm hiểu các khái niệm cơ bản và thực hành về Amazon System Manager - Session Management. Thực hành tạo kết nối đến máy chủ public và máy chủ private trong VPC.
+&emsp; **Số điện thoại:** 0347622638
 
-![ConnectPrivate](/images/arc-log.png) 
+&emsp; **Email:** leduong5469@gmail.com
 
-### Nội dung
+&emsp; **Đại học:** FPT University
 
- 1. [Giới thiệu](1-introduce/)
- 2. [Các bước chuẩn bị](2-Prerequiste/)
- 3. [Tạo kết nối đến máy chủ EC2](3-Accessibilitytoinstance/)
- 4. [Quản lý session logs](4-s3log/)
+&emsp; **Chuyên ngành:** công nghệ thông tin
+
+&emsp; **Lớp:** AWS082025
+
+&emsp; **Công ty thực tập:** Amazon Web Services Vietnam Co., Ltd.
+
+&emsp; **Vị trí thực tập:** FCJ Cloud Intern
+
+&emsp; **Thời gian thực tập:** From 12/08/2025 to 12/11/2025
+
+![My avatar](/images/Gemini_Generated_Image_o9rzw4o9rzw4o9rz.png)
+
+### Nội Dung
+ 1. [Introduction ](1-introduce/)
+ 2. [Preparation](2-prerequiste/)
+ 3. [Connect to EC2 instance](3-accessibilitytoinstances/)
+ 4. [Manage session logs](4-s3log/)
  5. [Port Forwarding](5-Portfwd/)
- 6. [Dọn dẹp tài nguyên](6-cleanup/)
+ 6. [Clean up resources](6-cleanup/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
