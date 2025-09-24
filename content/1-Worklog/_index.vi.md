@@ -1,10 +1,9 @@
 
 ---
 title: "Nhật ký công việc"
-date: "`r Sys.Date()`"
 weight: 1
-chapter: false
-pre: " <b> 1. </b> "
+chapter: true
+pre: "<b>1. </b>"
 ---
 
 **Tuần 1:** [Làm quen với AWS và các dịch vụ cơ bản trong AWS](1.1-week1/)
