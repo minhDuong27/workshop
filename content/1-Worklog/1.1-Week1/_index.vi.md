@@ -18,13 +18,13 @@ pre: " <b> 1.1. </b> "
 * Thực hành các lab trong First Cloud Journey.
 
 ### Các công việc cần thực hiện trong tuần:
-| Ngày | Nhiệm vụ                                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và ghi chú lại quy định của đơn vị thực tập                                                                                                               | 08/09/2025 | 08/09/2025      |
-| 3   | - Tìm hiểu về AWS và các loại dịch vụ: <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp;                                                              | 09/09/2025 | 09/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo tài khoản AWS Free Tier <br> - Học về AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo tài khoản AWS <br>&emsp; + Cài đặt & cấu hình AWS CLI <br> &emsp; + Cách sử dụng AWS CLI      | 10/09/2025 | 10/09/2025      | <https://000001.awsstudygroup.com/1-create-new-aws-account/> |
-| 5   | - Học cách viết Markdown và sử dụng Hugo                                                                                                                                                               | 11/09/2025 | 11/09/2025      | <https://youtu.be/mXRqgMr_97U?si=WeNYkQDvgZFIkF3r> |
-| 6   | - **Thực hành:** <br>&emsp; + Làm các lab trong First Cloud Journey                                                                                                                                    | 12/09/2025 | 12/09/2025      | <https://master.d31mm2rc5713dr.amplifyapp.com/> |
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | -------- | ------------ | ---------------- | ------------------ |
+| 2   | <ul><li>Làm quen với các thành viên FCJ</li><li>Đọc và ghi chú lại quy định của đơn vị thực tập</li></ul> | 08/09/2025 | 08/09/2025 | |
+| 3   | <ul><li>Tìm hiểu về AWS và các loại dịch vụ:</li><ul><li>Compute</li><li>Storage</li><li>Networking</li><li>Database</li></ul></ul> | 09/09/2025 | 09/09/2025 | [CloudJourney](https://cloudjourney.awsstudygroup.com/) |
+| 4   | <ul><li>Tạo tài khoản AWS Free Tier</li><li>Học về AWS Console & AWS CLI</li><li><b>Thực hành:</b><ul><li>Tạo tài khoản AWS</li><li>Cài đặt & cấu hình AWS CLI</li><li>Cách sử dụng AWS CLI</li></ul></li></ul> | 10/09/2025 | 10/09/2025 | [AWS Account Setup](https://000001.awsstudygroup.com/1-create-new-aws-account/) |
+| 5   | <ul><li>Học cách viết Markdown và sử dụng Hugo</li></ul> | 11/09/2025 | 11/09/2025 | [YouTube Guide](https://youtu.be/mXRqgMr_97U?si=WeNYkQDvgZFIkF3r) |
+| 6   | <ul><li><b>Thực hành:</b><ul><li>Làm các lab trong First Cloud Journey</li></ul></li></ul> | 12/09/2025 | 12/09/2025 | [First Cloud Journey](https://master.d31mm2rc5713dr.amplifyapp.com/) |
 
 
 ### Thành tựu Tuần 1:
