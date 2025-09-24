@@ -16,14 +16,13 @@ pre: " <b> 1.1. </b> "
 * Do labs on the First Cloud Journey
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/09/2025 | 08/09/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 09/09/2025 | 09/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 10/09/2025 | 10/09/2025      | <https://000001.awsstudygroup.com/1-create-new-aws-account/> |
-| 5   | - Learn how to write markdow and use hugo                                                                                                                                                              | 11/09/2025 | 11/09/2025      | <https://youtu.be/mXRqgMr_97U?si=WeNYkQDvgZFIkF3r> |
-| 6   | - **Practice:** <br>&emsp; + Do labs on the First Cloud Journey                                                                                                                                        | 12/09/2025 | 12/09/2025      | <https://master.d31mm2rc5713dr.amplifyapp.com/> |
-
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | ---- | ---------- | --------------- | ------------------ |
+| 2   | <ul><li>Get acquainted with FCJ members</li><li>Read and take note of internship unit rules and regulations</li></ul> | 08/09/2025 | 08/09/2025 | |
+| 3   | <ul><li>Learn about AWS and its types of services:</li><ul><li>Compute</li><li>Storage</li><li>Networking</li><li>Database</li><li>...</li></ul></ul> | 09/09/2025 | 09/09/2025 | [CloudJourney](https://cloudjourney.awsstudygroup.com/) |
+| 4   | <ul><li>Create AWS Free Tier account</li><li>Learn about AWS Console & AWS CLI</li><li><b>Practice:</b><ul><li>Create AWS account</li><li>Install & configure AWS CLI</li><li>How to use AWS CLI</li></ul></li></ul> | 10/09/2025 | 10/09/2025 | [AWS Account Setup](https://000001.awsstudygroup.com/1-create-new-aws-account/) |
+| 5   | <ul><li>Learn how to write markdown and use Hugo</li></ul> | 11/09/2025 | 11/09/2025 | [YouTube Guide](https://youtu.be/mXRqgMr_97U?si=WeNYkQDvgZFIkF3r) |
+| 6   | <ul><li><b>Practice:</b><ul><li>Do labs on the First Cloud Journey</li></ul></li></ul> | 12/09/2025 | 12/09/2025 | [First Cloud Journey](https://master.d31mm2rc5713dr.amplifyapp.com/) |
 
 ### Week 1 Achievements:
 
