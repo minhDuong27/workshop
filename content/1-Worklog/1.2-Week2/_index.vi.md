@@ -22,7 +22,7 @@ pre: "<b>1.2. </b>"
 | 3    | Nghiên cứu chi tiết Security Groups, Network ACLs                    | 16/09/2025   | 16/09/2025       | [AWS Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html) |
 | 4    | Xem video *Module 02-03 – VPN, DirectConnect, LoadBalancer*          | 17/09/2025   | 17/09/2025       | [YouTube Video](https://youtu.be/CXU8D3kyxIc) |
 | 5    | Nghiên cứu cách thiết lập VPN, Direct Connect, và Load Balancer      | 18/09/2025   | 18/09/2025       | [AWS Networking Docs](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) |
-| 6    | Làm lab: cấu hình kết nối mạng giữa VPC & kiểm soát truy cập         | 19/09/2025   | 19/09/2025       | [First Cloud Journey](https://www.firstcloudjourney.com) |
+| 6    | Làm lab: cấu hình kết nối mạng giữa VPC & kiểm soát truy cập         | 19/09/2025   | 19/09/2025       | [First Cloud Journey](https://master.d31mm2rc5713dr.amplifyapp.com/) |
 
 ---
 
