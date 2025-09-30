@@ -1,5 +1,10 @@
-title date weight chapter pre
-Week 3 Worklog  `Sys.Date()`  1  false  <b> 3.1. </b>
+---
+title: "Week 3 Worklog"
+date: "`r Sys.Date()`"
+weight: 2
+chapter: false
+pre: "<b>1.3. </b>"
+---
 
 ---
 
