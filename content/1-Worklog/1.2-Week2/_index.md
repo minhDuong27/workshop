@@ -22,7 +22,7 @@ pre: "<b>1.2. </b>"
 | 3   | Study Security Groups and Network ACLs in detail                     | 16/09/2025 | 16/09/2025      | [AWS Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html) |
 | 4   | Watch *Module 02-03 – VPN, DirectConnect, LoadBalancer*              | 17/09/2025 | 17/09/2025      | [YouTube Video](https://youtu.be/CXU8D3kyxIc) |
 | 5   | Study how to set up VPN, Direct Connect, and Load Balancer           | 18/09/2025 | 18/09/2025      | [AWS Networking Docs](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) |
-| 6   | Lab: configure inter-VPC connectivity and access control             | 19/09/2025 | 19/09/2025      | [First Cloud Journey](https://www.firstcloudjourney.com) |
+| 6   | Lab: configure inter-VPC connectivity and access control             | 19/09/2025 | 19/09/2025      | [First Cloud Journey](https://master.d31mm2rc5713dr.amplifyapp.com/) |
 
 ---
 
