@@ -16,13 +16,13 @@ pre: "<b>1.2. </b>"
 
 ## Nhiệm vụ được thực hiện trong tuần này:
 
-| Ngày | Nhiệm vụ                                                                | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo                  |
-| --- | -------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------- |
-| 2   | Xem video *Module 02-02 – VPC Security & Multi-VPC*                  | 29/09/2025 | 29/09/2025      | FCJ Bootcamp Video (Bài 1)          |
-| 3   | Nghiên cứu chi tiết Security Groups, Network ACLs                    | 30/09/2025 | 30/09/2025      | AWS Documentation / Video bài 1     |
-| 4   | Xem video *Module 02-03 – VPN, DirectConnect, LoadBalancer*           | 01/10/2025 | 01/10/2025      | FCJ Bootcamp Video (Bài 2)          |
-| 5   | Nghiên cứu cách thiết lập VPN, Direct Connect, và Load Balancer       | 02/10/2025 | 02/10/2025      | AWS Docs / Video bài 2               |
-| 6   | Làm lab: cấu hình kết nối mạng giữa VPC & kiểm soát truy cập         | 03/10/2025 | 03/10/2025      | First Cloud Journey Lab             |
+| Ngày | Nhiệm vụ                                                             | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| ---- | -------------------------------------------------------------------- | ------------ | ---------------- | ------------------- |
+| 2    | Xem video *Module 02-02 – VPC Security & Multi-VPC*                  | 15/09/2025   | 15/09/2025       | [YouTube Video](https://youtu.be/BPuD1l2hEQ4) |
+| 3    | Nghiên cứu chi tiết Security Groups, Network ACLs                    | 16/09/2025   | 16/09/2025       | [AWS Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html) |
+| 4    | Xem video *Module 02-03 – VPN, DirectConnect, LoadBalancer*          | 17/09/2025   | 17/09/2025       | [YouTube Video](https://youtu.be/CXU8D3kyxIc) |
+| 5    | Nghiên cứu cách thiết lập VPN, Direct Connect, và Load Balancer      | 18/09/2025   | 18/09/2025       | [AWS Networking Docs](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) |
+| 6    | Làm lab: cấu hình kết nối mạng giữa VPC & kiểm soát truy cập         | 19/09/2025   | 19/09/2025       | [First Cloud Journey](https://www.firstcloudjourney.com) |
 
 ---
 
