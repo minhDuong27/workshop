@@ -6,7 +6,7 @@ chapter: false
 pre: "<b>1.4. </b>"
 ---
 
-## Week X Objectives:
+## Week 4 Objectives:
 - [Your objectives for this week: e.g. learn advanced networking, security, etc.]  
 - [Another objective]  
 - [Another objective]  
@@ -28,7 +28,7 @@ pre: "<b>1.4. </b>"
 
 ---
 
-## Week X Achievements:
+## Week 4 Achievements:
 - [Video **B1qxOQLmavQ**] *– summary of what you learned from video 1*  
 - [Video **GVDsDu9dOFY**] *– summary of video 2*  
 - [Video **fZa_kQ69stI**] *– summary of video 3*  
