@@ -6,13 +6,6 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Thông tin dưới đây chỉ mang tính chất tham khảo. Vui lòng **không sao chép nguyên văn** nội dung này cho báo cáo của bạn, bao gồm cả phần cảnh báo này.
-{{% /notice %}}
-
-Phần này sẽ liệt kê và giới thiệu các blog mà bạn đã dịch.  
-Hãy thay thế các phần giữ chỗ (`...`) bằng **tên blog thực tế** và **mô tả ngắn gọn** của bạn.
-
 ---
 
 ### [Blog 1 - ...](3.1-Blog1/)
