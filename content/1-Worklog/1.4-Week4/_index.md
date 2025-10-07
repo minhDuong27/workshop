@@ -7,9 +7,9 @@ pre: "<b>1.4. </b>"
 ---
 
 ## Week 4 Objectives:
-- [Your objectives for this week: e.g. learn advanced networking, security, etc.]  
-- [Another objective]  
-- [Another objective]  
+- Learn how to create and configure a Virtual Private Cloud (VPC).  
+- Understand subnets, route tables, and Internet Gateway in AWS.  
+- Practice connecting EC2 instances inside the VPC and testing connectivity.  
 
 ---
 
@@ -29,14 +29,14 @@ pre: "<b>1.4. </b>"
 ---
 
 ## Week 4 Achievements:
-- [Video **B1qxOQLmavQ**] *– summary of what you learned from video 1*  
-- [Video **GVDsDu9dOFY**] *– summary of video 2*  
-- [Video **fZa_kQ69stI**] *– summary of video 3*  
-- [Video **I-5gTPDCOI8**] *– summary of video 4*  
-- [Video **xl0hyM6qHgw**] *– summary of video 5*  
-- [Video **nSRrWRBSphc**] *– summary of video 6*  
-- [Video **_6t-LnZndb0**] *– summary of video 7*  
-- [Video **BclZq6Dvyjk**] *– summary of video 8*  
+- [Video **B1qxOQLmavQ**] – Created a new VPC with custom CIDR block and explored VPC dashboard.  
+- [Video **GVDsDu9dOFY**] – Learned how to create public and private subnets and assign IP ranges.  
+- [Video **fZa_kQ69stI**] – Configured Internet Gateway and attached it to the VPC.  
+- [Video **I-5gTPDCOI8**] – Created and updated route tables to manage routing between subnets.  
+- [Video **xl0hyM6qHgw**] – Launched EC2 instances within public and private subnets.  
+- [Video **nSRrWRBSphc**] – Configured security groups to control traffic between instances.  
+- [Video **_6t-LnZndb0**] – Tested connectivity between instances and verified routing setup.  
+- [Video **BclZq6Dvyjk**] – Reviewed the architecture and summarized key networking concepts learned.  
 
 ---
 
