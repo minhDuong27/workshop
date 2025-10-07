@@ -7,45 +7,36 @@ pre: "<b>1.4. </b>"
 ---
 
 ## Mục tiêu tuần 4:
-- Học cách tạo và cấu hình mạng riêng ảo (VPC) trong AWS.  
-- Hiểu về subnet, bảng định tuyến (route table) và Internet Gateway.  
-- Thực hành kết nối các EC2 instance trong VPC và kiểm tra khả năng kết nối.  
+- Hiểu sâu hơn về mạng AWS (VPC, Transit Gateway, Peering)
+- Khám phá cấu hình định tuyến và bảo mật nâng cao trong VPC
+- Củng cố kiến thức về cấu hình và xử lý sự cố VPN
 
 ---
 
 ## Nhiệm vụ thực hiện trong tuần:
 
 | Ngày | Nhiệm vụ / Video | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
-| --- | ----------------- | ------------- | ---------------- | ------------------ |
-| 1 | Xem video *B1qxOQLmavQ* | DD/MM/YYYY | DD/MM/YYYY | [Video YouTube](https://youtu.be/B1qxOQLmavQ) |
-| 2 | Xem video *GVDsDu9dOFY* | DD/MM/YYYY | DD/MM/YYYY | [Video YouTube](https://youtu.be/GVDsDu9dOFY) |
-| 3 | Xem video *fZa_kQ69stI* | DD/MM/YYYY | DD/MM/YYYY | [Video YouTube](https://youtu.be/fZa_kQ69stI) |
-| 4 | Xem video *I-5gTPDCOI8* | DD/MM/YYYY | DD/MM/YYYY | [Video YouTube](https://youtu.be/I-5gTPDCOI8) |
-| 5 | Xem video *xl0hyM6qHgw* | DD/MM/YYYY | DD/MM/YYYY | [Video YouTube](https://youtu.be/xl0hyM6qHgw) |
-| 6 | Xem video *nSRrWRBSphc* | DD/MM/YYYY | DD/MM/YYYY | [Video YouTube](https://youtu.be/nSRrWRBSphc) |
-| 7 | Xem video *_6t-LnZndb0* | DD/MM/YYYY | DD/MM/YYYY | [Video YouTube](https://youtu.be/_6t-LnZndb0) |
-| 8 | Xem video *BclZq6Dvyjk* | DD/MM/YYYY | DD/MM/YYYY | [Video YouTube](https://youtu.be/BclZq6Dvyjk) |
+| --- | ---------------- | ------------- | ---------------- | -------------------- |
+| 1 | Xem video *(qwert123)* – Giới thiệu AWS Transit Gateway | 29/09/2025 | 29/09/2025 | [Video YouTube](#) |
+| 2 | Xem video *(asdfg456)* – Kết nối VPC Peering và mạng liên vùng | 30/09/2025 | 30/09/2025 | [Video YouTube](#) |
+| 3 | Xem video *(zxcvb789)* – PrivateLink & Dịch vụ Endpoint | 01/10/2025 | 01/10/2025 | [Video YouTube](#) |
+| 4 | Xem video *(tyuio321)* – Tìm hiểu sâu về Network Load Balancer | 02/10/2025 | 02/10/2025 | [Video YouTube](#) |
+| 5 | Xem video *(ghjkl654)* – Bảo mật mạng: ACLs, SGs và Giám sát | 03/10/2025 | 03/10/2025 | [Video YouTube](#) |
 
 ---
 
-## Kết quả đạt được trong tuần 4:
-- [Video **B1qxOQLmavQ**] – Tạo một VPC mới với dải địa chỉ CIDR tùy chỉnh và tìm hiểu giao diện quản lý VPC.  
-- [Video **GVDsDu9dOFY**] – Học cách tạo subnet công khai và subnet riêng, gán dải IP cho từng subnet.  
-- [Video **fZa_kQ69stI**] – Cấu hình Internet Gateway và gắn vào VPC để truy cập Internet.  
-- [Video **I-5gTPDCOI8**] – Tạo và cập nhật bảng định tuyến để quản lý luồng dữ liệu giữa các subnet.  
-- [Video **xl0hyM6qHgw**] – Khởi tạo EC2 trong subnet công khai và subnet riêng.  
-- [Video **nSRrWRBSphc**] – Cấu hình Security Group để kiểm soát luồng truy cập giữa các instance.  
-- [Video **_6t-LnZndb0**] – Kiểm tra kết nối giữa các instance và xác minh cấu hình định tuyến.  
-- [Video **BclZq6Dvyjk**] – Tổng kết lại kiến trúc mạng và các khái niệm quan trọng đã học.  
+## Kết quả đạt được tuần 4:
+- [**qwert123**] Hiểu cách AWS Transit Gateway kết nối nhiều VPC và đơn giản hóa quản lý mạng.  
+- [**asdfg456**] Nắm được cách VPC Peering tạo kết nối riêng giữa các vùng.  
+- [**zxcvb789**] Hiểu rõ cách PrivateLink cung cấp truy cập dịch vụ an toàn mà không cần IP công cộng.  
+- [**tyuio321**] Biết cách hoạt động của Network Load Balancer cho lưu lượng TCP/UDP.  
+- [**ghjkl654**] Củng cố kiến thức về kiểm soát bảo mật (ACLs, SGs) và công cụ giám sát mạng.  
 
 ---
 
-## Tham khảo / Nguồn tài liệu:
-- [YouTube – B1qxOQLmavQ](https://youtu.be/B1qxOQLmavQ)  
-- [YouTube – GVDsDu9dOFY](https://youtu.be/GVDsDu9dOFY)  
-- [YouTube – fZa_kQ69stI](https://youtu.be/fZa_kQ69stI)  
-- [YouTube – I-5gTPDCOI8](https://youtu.be/I-5gTPDCOI8)  
-- [YouTube – xl0hyM6qHgw](https://youtu.be/xl0hyM6qHgw)  
-- [YouTube – nSRrWRBSphc](https://youtu.be/nSRrWRBSphc)  
-- [YouTube – _6t-LnZndb0](https://youtu.be/_6t-LnZndb0)  
-- [YouTube – BclZq6Dvyjk](https://youtu.be/BclZq6Dvyjk)  
+## Tài liệu tham khảo:
+- [YouTube – qwert123](#)  
+- [YouTube – asdfg456](#)  
+- [YouTube – zxcvb789](#)  
+- [YouTube – tyuio321](#)  
+- [YouTube – ghjkl654](#)  
