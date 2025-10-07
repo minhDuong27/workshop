@@ -7,9 +7,9 @@ pre: "<b>1.4. </b>"
 ---
 
 ## Week 4 Objectives:
-- Deepen understanding of AWS networking (VPC, Transit Gateway, Peering)
-- Explore advanced routing and security in VPC
-- Strengthen knowledge of VPN configuration and troubleshooting
+- Understand and configure NAT Gateway for outbound traffic from private subnets  
+- Explore Security Groups and Network ACLs in VPC  
+- Visualize VPC resources and connections  
 
 ---
 
@@ -17,26 +17,26 @@ pre: "<b>1.4. </b>"
 
 | Day | Task / Video | Start Date | Completion Date | Reference Material |
 | --- | ------------- | ------------ | ---------------- | -------------------- |
-| 1 | Watch video *(qwert123)* – Introduction to AWS Transit Gateway | 29/09/2025 | 29/09/2025 | [YouTube Video](#) |
-| 2 | Watch video *(asdfg456)* – VPC Peering and Cross-Region Networking | 30/09/2025 | 30/09/2025 | [YouTube Video](#) |
-| 3 | Watch video *(zxcvb789)* – PrivateLink & Endpoint Services | 01/10/2025 | 01/10/2025 | [YouTube Video](#) |
-| 4 | Watch video *(tyuio321)* – Network Load Balancer Deep Dive | 02/10/2025 | 02/10/2025 | [YouTube Video](#) |
-| 5 | Watch video *(ghjkl654)* – Network Security: ACLs, SGs, and Monitoring | 03/10/2025 | 03/10/2025 | [YouTube Video](#) |
+| 1 | Watch *Module 02-Lab03-01.4 – NAT Gateway* | 29/09/2025 | 29/09/2025 | [YouTube Video](https://youtu.be/N58agSU4O8o) |
+| 2 | Watch *Module 02-Lab03-02.1 – Security Group* | 30/09/2025 | 30/09/2025 | [YouTube Video](#) |
+| 3 | Watch *Module 02-Lab03-02.2 – Network ACLs* | 01/10/2025 | 01/10/2025 | [YouTube Video](#) |
+| 4 | Watch *Module 02-Lab03-02.3 – VPC Resource Map* | 02/10/2025 | 02/10/2025 | [YouTube Video](#) |
+| 5 | Watch *Module 02-Lab03-03.1 – Create VPC* | 03/10/2025 | 03/10/2025 | [YouTube Video](#) |
 
 ---
 
 ## Week 4 Achievements:
-- [**qwert123**] Learned how AWS Transit Gateway connects multiple VPCs and simplifies network management.  
-- [**asdfg456**] Understood how VPC Peering enables private connectivity across regions.  
-- [**zxcvb789**] Explored PrivateLink for secure service access without public IPs.  
-- [**tyuio321**] Learned the working of Network Load Balancer for TCP/UDP traffic.  
-- [**ghjkl654**] Strengthened understanding of security controls (ACLs, SGs) and network monitoring tools.  
+- Learned how to create and configure a **NAT Gateway** for internet access from private subnets.  
+- Understood how **Security Groups** act as virtual firewalls for EC2 instances.  
+- Explored **Network ACLs** as subnet-level security layers.  
+- Reviewed the **VPC Resource Map** to visualize networking relationships.  
+- Practiced creating a **VPC** with proper CIDR and subnet planning.  
 
 ---
 
 ## Reference / Resources:
-- [YouTube – qwert123](#)  
-- [YouTube – asdfg456](#)  
-- [YouTube – zxcvb789](#)  
-- [YouTube – tyuio321](#)  
-- [YouTube – ghjkl654](#)
+- [YouTube – Module 02-Lab03-01.4: NAT Gateway](https://youtu.be/N58agSU4O8o)  
+- [YouTube – Module 02-Lab03-02.1: Security Group](#)  
+- [YouTube – Module 02-Lab03-02.2: Network ACLs](#)  
+- [YouTube – Module 02-Lab03-02.3: VPC Resource Map](#)  
+- [YouTube – Module 02-Lab03-03.1: Create VPC](#)  
