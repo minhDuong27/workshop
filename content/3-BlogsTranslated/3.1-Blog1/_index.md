@@ -1,10 +1,4 @@
----
-title: "Blog 1"
-date: "`r Sys.Date()`"
-weight: 1
-chapter: false
-pre: " <b> 3.1. </b> "
----
+
 ---
 title: "Blog 1 - Carbon Methodology Update for AWS Customer Carbon Footprint Tool"
 date: "`r Sys.Date()`"
