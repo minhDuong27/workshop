@@ -8,8 +8,8 @@ pre: " <b> 3. </b> "
 
 ---
 
-### [Blog 1 - ...](3.1-Blog1/)
-Write a short summary here (2–4 sentences) about the blog’s main topic, key AWS service, or concept discussed.
+### [Blog 1 - Updated Carbon Methodology for the AWS Customer Carbon Footprint Tool](3.1-Blog1/)
+AWS has updated the carbon calculation methodology used in the Customer Carbon Footprint Tool (CCFT) to improve accuracy and transparency. The new methodology aligns with the Greenhouse Gas Protocol standards, includes updated emission factors, and offers better insight into customers’ carbon footprint across AWS services.
 
 ---
 
