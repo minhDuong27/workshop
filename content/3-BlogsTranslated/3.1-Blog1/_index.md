@@ -1,6 +1,5 @@
-
 ---
-title: "Blog 1 - Carbon Methodology Update for AWS Customer Carbon Footprint Tool"
+title: "Blog 1"
 date: "`r Sys.Date()`"
 weight: 1
 chapter: false
