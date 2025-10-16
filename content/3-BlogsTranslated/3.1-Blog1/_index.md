@@ -1,12 +1,10 @@
 ---
-title: "Blog 1"
+title: "Blog 1 - Carbon Methodology Update for AWS Customer Carbon Footprint Tool"
 date: "`r Sys.Date()`"
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
-
-# Carbon Methodology Update for the AWS Customer Carbon Footprint Tool
 
 **By Margaret O’Toole, Alexis Bateman, Marta Fraga, and Paula Csatlos – April 23, 2025 – Featured, Sustainability**
 
