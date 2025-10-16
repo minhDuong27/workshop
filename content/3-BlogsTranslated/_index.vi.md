@@ -8,8 +8,10 @@ pre: " <b> 3. </b> "
 
 ---
 
-### [Blog 1 - ...](3.1-Blog1/)
-Viết tóm tắt ngắn (2–4 câu) về nội dung chính của blog, dịch vụ AWS được đề cập hoặc khái niệm quan trọng được thảo luận.
+### [Blog 1 - Phương pháp luận Carbon được cập nhật cho Công cụ Dấu chân Carbon của Khách hàng AWS](3.1-Blog1/)
+AWS đã cập nhật phương pháp tính toán lượng phát thải carbon được sử dụng trong Công cụ Dấu chân Carbon của Khách hàng (CCFT) nhằm nâng cao độ chính xác và tính minh bạch.  
+Bản cập nhật này tuân theo các tiêu chuẩn của Giao thức Khí nhà kính (GHG Protocol) và tinh chỉnh cách AWS tính toán lượng phát thải Phạm vi 1 và Phạm vi 2.  
+Phương pháp luận mới cũng cung cấp báo cáo chi tiết hơn và khả năng hiển thị tốt hơn về lượng phát thải carbon của khách hàng, giúp các tổ chức đưa ra quyết định bền vững hiệu quả hơn.
 
 ---
 
