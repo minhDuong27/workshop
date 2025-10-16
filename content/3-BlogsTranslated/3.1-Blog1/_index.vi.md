@@ -1,12 +1,10 @@
 ---
-title: "Blog 1"
+title: "Blog 1 - Cập nhật Phương pháp Carbon cho Công cụ Dấu chân Carbon của Khách hàng AWS"
 date: "`r Sys.Date()`"
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
-
-# Cập nhật Phương pháp Carbon cho Công cụ Dấu chân Carbon của Khách hàng AWS
 
 **bởi Margaret O’Toole, Alexis Bateman, Marta Fraga, và Paula Csatlos vào 23 THÁNG 4 2025 trong Featured, Sustainability**
 
